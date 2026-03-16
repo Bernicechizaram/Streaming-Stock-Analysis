@@ -6,9 +6,9 @@ This Python based financial analysis compares the stock performance of industry 
 Overview
 This project analyzes stock price trends during major industry events, including the 2022 streaming market downturn and the recovery observed in 2024. The analysis combines financial data processing with visualization to answer three key questions.
 
-• Which company generated stronger long term shareholder returns
-• Which stock carried higher risk based on daily price volatility
-• How major business events affected stock performance and market value
+Which company generated stronger long term shareholder returns,
+Which stock carried higher risk based on daily price volatility,
+How major business events affected stock performance and market value,
 
 Tools and Technologies
 
