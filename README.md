@@ -1,4 +1,5 @@
 Streaming Wars: Netflix vs. Disney Market Analysis (2020 - 2024)
+
 ## 📊 Interactive Tableau Dashboard
 I developed a dynamic dashboard to visualize the stock performance and trading volumes of Netflix and Disney. 
 
@@ -90,3 +91,8 @@ Python notebooks containing the full analysis workflow and exploratory analysis.
 
 visualizations
 Charts and links to interactive Tableau dashboards created from the processed data
+
+Technical Challenges
+Data Alignment: Handled disparate date formats between Netflix and Disney datasets using Python's to datetime and resample methods to ensure a 1:1 daily comparison.
+
+Dashboard Interactivity: Engineered a Global Filter in Tableau to synchronize Dual Axis Sales and Volume charts, providing a unified view of market liquidity and price action.
