@@ -1,5 +1,13 @@
 Streaming Wars: Netflix vs. Disney Market Analysis (2020 - 2024)
+## 📊 Interactive Tableau Dashboard
+I developed a dynamic dashboard to visualize the stock performance and trading volumes of Netflix and Disney. 
 
+[Click here to view the Live Interactive Dashboard](https://public.tableau.com/app/profile/opara.chizaram/viz/mine_17738574958270/Dashboard1)
+
+*Features:*
+- **Interactive Filtering:** Toggle between companies to compare market share.
+- **Dual-Axis Visualization:** Synchronized price trends and volume analysis.
+- **KPI Engineering:** Real-time tracking of total sales and YoY growth.
 Project Summary
 This Python based financial analysis compares the stock performance of industry leaders Netflix and Disney over a four year period. The analysis evaluates investment growth, volatility, and market resilience to understand how both companies navigated changes in the media and streaming industry. The results show a clear trade off. Netflix delivered stronger growth and higher returns, while Disney offered more stability through its diversified business model.
 
